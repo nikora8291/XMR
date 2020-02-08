@@ -1,0 +1,15 @@
+{
+"pool_list": [
+{
+"pool_address": "xmr.2miners.com:2222",
+"wallet_address": "YOUR_ADDRESS",
+"rig_id": "RIG_ID",
+"pool_password": "x",
+"use_nicehash": false,
+"use_tls": false,
+"tls_fingerprint": "",
+"pool_weight": 1
+}
+],
+"currency": "randomx"
+}
